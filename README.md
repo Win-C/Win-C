@@ -1,7 +1,7 @@
 ### Hi, I'm Winnie. I'm a full-stack engineer. 👋
 
 const winnie = {
-  interest: security, privacy, user accessbility, upgrading legacy systems
+  /n interest: security, privacy, user accessbility, upgrading legacy systems
   knowledge: JavaScript, TypeScript, HTML, CSS, Python
   toolsAndFrameworks: React, Node, Express, Flask, Django, SQLAlchemy, Jest, awsS3
   designApproach: "event-driven", "test-driven"
