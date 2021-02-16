@@ -1,5 +1,7 @@
 ### Hi, I'm Winnie. I'm a full-stack engineer. 👋
 
+![](./image.svg)
+
 const winnie = {
   /n interest: security, privacy, user accessbility, upgrading legacy systems
   knowledge: JavaScript, TypeScript, HTML, CSS, Python
