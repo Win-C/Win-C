@@ -1,6 +1,40 @@
-### Hi, I'm Winnie. I'm a full-stack engineer. 👋
+### Hi, I'm Winnie. 👋
+
+I'm a full-stack software engineer 👩🏻‍💻. I like to build 🏗 and bring ideas 💡 to life. 
+
+Before taking the red pill 💊, I co-founded a healthcare admin startup in Canada and was investing in global, mid-sized companies in aerospace, transportation & logistics, and business services as a fiduciary of institutional investors and family offices.
+
+I'm looking for new opportunities so please reach out if my work and background (tech + finance + entrepreneurial spirit) may be a fit!
+
+Rabbit holes that I typically fall into: 
+- [legacy industries transition to new tech]
+- user data & privacy
+- information security
+- improving access for marginalized communities
+- teaching and collaborative learning
+
+- 🌱 Learing: Django, Python, TypeScript
+- 📫 
+
+Pronouns: she/her
+
+Fun fact: I'm a runner and I competed in Canada's inaugural MedWar (Medical Wilderness Adventure Race) in 2019. 
+
+Here's how my online information is being publicly tracked:
+[Add Twitter, GitHub, personal website, LinkedIn, Angellist, other dev communities]
+
+- 🔭 I’m currently working on a messaging app that lets you send enciphered emoji messages
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: she | her
+- ⚡ Fun fact: ...
 
 ![](./image.svg)
+
+[![Winnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=win-c)]
 
 <!-- Badges below -->
 
@@ -63,7 +97,7 @@ Testing:
 
 Other: 
 
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 
 <!-- Want to learn elastic search -->
 
@@ -86,17 +120,3 @@ const winnie = {
 
 <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
 
-<!--
-**Win-C/Win-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a messaging app that lets you send enciphered emoji messages
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she | her
-- ⚡ Fun fact: ...
--->
