@@ -47,11 +47,13 @@ Cloud Storage:
     - information security and user data & privacy
     - modernization of legacy systems through APIs
     - user accessbility including improving access for marginalized and rural communities
-<!-- TODO: Add personal website, Angellist, medium, other dev communities -->
+<!-- TODO: Add personal website, Angellist, other dev communities -->
 - 📫 Here's how I can be contacted and tracked:<a href="https://twitter.com/chou_winnie">
   <img align="center" alt="Winnie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a><a href="https://linkedin.com/in/winniechou">
   <img align="center" alt="Winnie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://medium.com/@winnie.chou.mb">
+  <img align="center" alt="Winnie's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 ----
