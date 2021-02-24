@@ -40,7 +40,9 @@ Cloud Storage:
 - 🏗 Building some cybersecurity projects with a Raspberry Pi. Look out for future blog posts!
 - 🌱 Learning Django and practicing data structures & algorithms in both JS and Py
 - 👯 Looking to collaborate on coding opportunities
-- ⚡ Fun fact: I'm a runner and competed 🇨🇦 inaugural MedWar (Medical Wilderness Adventure Race). Lived in New York City 🗽 ❤️ for 5 years
+- ⚡ Fun facts: 
+    - Lived in New York City 🗽 ❤️ for 5 years
+    - I'm a runner and competed 🇨🇦 inaugural MedWar (Medical Wilderness Adventure Race)
 - 🐇 🕳️ Rabbit holes: that I typically fall into
     - information security and user data & privacy
     - modernization of legacy systems through APIs
@@ -55,6 +57,6 @@ Cloud Storage:
 ----
 ![Winnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=win-c&show_icons=true&theme=nord)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=win-c.visitor-badge)
 
 
