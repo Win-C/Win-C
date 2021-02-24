@@ -1,8 +1,8 @@
 ### Hi, I'm Winnie. 👋
 
-I'm a full-stack software engineer with a budding interest in cybersecurity 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life. 
+I'm a full-stack software engineer with an interest in cybersecurity 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life. 
 
-I'm looking for new opportunities so please reach out if you want to connect about shared interests or have ways to collaborate!
+I'm looking for new opportunities so reach out if you want to connect and want to collaborate!
 
 ### Knowledge & Skills
 
