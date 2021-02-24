@@ -1,6 +1,6 @@
 ### Hi, I'm Winnie. 👋
 
-I'm a full-stack software engineer 👩🏻‍💻 with a budding interest in cybersecurity 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life 🤖. 
+I'm a full-stack software engineer with a budding interest in cybersecurity 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life. 
 
 I'm looking for new opportunities so please reach out if you want to connect about shared interests or have ways to collaborate!
 
@@ -47,8 +47,7 @@ Cloud Storage:
 <!-- TODO: Add personal website, Angellist, other dev communities -->
 - 📫 Here's how I can be contacted and tracked:<a href="https://twitter.com/chou_winnie">
   <img align="center" alt="Winnie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/winniechou">
+</a><a href="https://linkedin.com/in/winniechou">
   <img align="center" alt="Winnie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
