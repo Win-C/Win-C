@@ -14,25 +14,25 @@ Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 
 Frameworks: 
-![React](https://img.shields.io/badge/React.js)
-![Express](https://img.shields.io/badge/Express.js)
-![Flask](https://img.shields.io/badge/Flask)
-![Django](https://img.shields.io/badge/Django)
+![React](https://img.shields.io/badge/React.js-Intermediate-blue)
+![Express](https://img.shields.io/badge/Express.js-Intermediate-blue)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-blue)
+![Django](https://img.shields.io/badge/Django-Intermediate-blue)
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue) -->
 <!-- ![Jest](https://img.shields.io/badge/Jest-Intermediate-blue)
 ![Jasmine](https://img.shields.io/badge/Jasmine-Intermediate-blue) -->
 
 Database/ORMs:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Intermediate-blue)
 
 Hosting:
-![Heroku](https://img.shields.io/badge/Heroku)
-![Netlify](https://img.shields.io/badge/Netlify)
-![Surge](https://img.shields.io/badge/Surge)
+![Heroku](https://img.shields.io/badge/Heroku-Beginner-lightgrey)
+![Netlify](https://img.shields.io/badge/Netlify-Beginner-lightgrey)
+![Surge](https://img.shields.io/badge/Surge-Beginner-lightgrey)
 
 Cloud Storage:
-![AWS](https://img.shields.io/badge/AWS)
+![AWS](https://img.shields.io/badge/AWS-Beginner-lightgrey)
 
 
 ### Fast Facts About Me
