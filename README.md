@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with an interest in cybersecurity 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life. 
 
-I'm looking for new opportunities so reach out if you want to connect and want to collaborate!
+I'm looking for new opportunities so reach out if you want to connect or collaborate!
 
 ### Knowledge & Skills
 ---- 
@@ -18,16 +18,17 @@ Frameworks:
 ![Express](https://img.shields.io/badge/Express.js-Intermediate-blue)
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-blue)
 ![Django](https://img.shields.io/badge/Django-Intermediate-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue)
-![Jest](https://img.shields.io/badge/Jest-Intermediate-blue)
-![Jasmine](https://img.shields.io/badge/Jasmine-Intermediate-blue)
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue) -->
+<!-- ![Jest](https://img.shields.io/badge/Jest-Intermediate-blue)
+![Jasmine](https://img.shields.io/badge/Jasmine-Intermediate-blue) -->
 
-Databases & ORMs:
+Database/ORMs:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Intermediate-blue)
 
 Hosting:
 ![Heroku](https://img.shields.io/badge/Heroku-Beginner-lightgrey)
+![Netlify](https://img.shields.io/badge/Netlify-Beginner-lightgrey)
 ![Surge](https://img.shields.io/badge/Surge-Beginner-lightgrey)
 
 Cloud Storage:
@@ -41,9 +42,9 @@ Cloud Storage:
 - 🌱 Learning Django and practicing data structures & algorithms in both JS and Py
 - 👯 Looking to collaborate on coding opportunities
 - ⚡ Fun facts: 
-    - Lived in New York City 🗽 ❤️ for 5 years
-    - I'm a runner and competed 🇨🇦 inaugural MedWar (Medical Wilderness Adventure Race)
-- 🐇 🕳️ Rabbit holes: that I typically fall into
+    - I lived in New York City 🗽 ❤️ for 5 years
+    - I'm a runner and competed in 🇨🇦's inaugural MedWar (Medical Wilderness Adventure Race)
+- 🐇 🕳️ Rabbit holes (I fall into...):
     - information security and user data & privacy
     - modernization of legacy systems through APIs
     - user accessbility including improving access for marginalized and rural communities
