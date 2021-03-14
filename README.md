@@ -1,6 +1,6 @@
 ## Hi, I'm Winnie. 👋
 
-I'm a full-stack software engineer that focuses on building scalable and maintainable code as well as an interest in user security and privacy 🕵🏻‍♀️. I like to build 🏗 and bring ideas 💡 to life. 
+I'm a full-stack software engineer that focuses on writing scalable and maintainable code. I have an interest in user security and privacy 🕵🏻‍♀️ so I keep this in mind when I'm building user-focused products and experiences. In short, I like to build 🏗 and bring ideas 💡 to life. 
 
 I'm looking for new opportunities so reach out if you want to connect or collaborate!
 
